@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titles{
+    background-color: rgba(255, 235, 205, 0.427);}
+ul li{
+    display: flex;
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+    padding: 40px;
+}
+a{
+  text-decoration: none;
+  color: rgb(122, 83, 34);
+}
+.images{
+    
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+p{
+    margin: 0 auto;
+    text-align: center;
+}
